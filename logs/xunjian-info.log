@@ -1,0 +1,17 @@
+2023-01-18 00:39:16,717 - werkzeug - INFO -  * Running on http://0.0.0.0:7777/ (Press CTRL+C to quit)
+2023-01-18 00:39:52,573 - app - INFO - 获取yaml配置成功
+2023-01-18 00:39:52,574 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:39:52] "GET /api/v1/loadyaml HTTP/1.1" 200 -
+2023-01-18 00:39:52,633 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:39:52] "GET /favicon.ico HTTP/1.1" 200 -
+2023-01-18 00:57:19,024 - app - INFO - 获取yaml配置成功
+2023-01-18 00:57:19,025 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:57:19] "GET /api/v1/loadyaml HTTP/1.1" 200 -
+2023-01-18 00:57:20,052 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:57:20] "GET /favicon.ico HTTP/1.1" 200 -
+2023-01-18 00:58:50,407 - werkzeug - INFO -  * Running on http://0.0.0.0:7777/ (Press CTRL+C to quit)
+2023-01-18 00:59:36,830 - werkzeug - INFO -  * Running on http://0.0.0.0:7777/ (Press CTRL+C to quit)
+2023-01-18 00:59:47,046 - app - INFO - 获取yaml配置成功
+2023-01-18 00:59:47,047 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:59:47] "GET /api/v1/loadyaml HTTP/1.1" 200 -
+2023-01-18 00:59:47,113 - werkzeug - INFO - 61.139.81.32 - - [18/Jan/2023 00:59:47] "GET /favicon.ico HTTP/1.1" 200 -
+2023-01-18 01:01:49,213 - werkzeug - INFO -src_ip:  * Running on http://0.0.0.0:7777/ (Press CTRL+C to quit)
+2023-01-18 01:01:55,459 - app - INFO -src_ip: 获取yaml配置成功
+2023-01-18 01:01:55,460 - werkzeug - INFO -src_ip: 61.139.81.32 - - [18/Jan/2023 01:01:55] "GET /api/v1/loadyaml HTTP/1.1" 200 -
+2023-01-18 01:01:55,551 - werkzeug - INFO -src_ip: 61.139.81.32 - - [18/Jan/2023 01:01:55] "GET /favicon.ico HTTP/1.1" 200 -
+2023-01-18 01:02:46,903-werkzeug-INFO- * Running on http://0.0.0.0:7777/ (Press CTRL+C to quit)
